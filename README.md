@@ -1,6 +1,5 @@
-### Hi there 👋
-
-**MohamedEmary/MohamedEmary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Mohamed from Egypt.
+<\br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
