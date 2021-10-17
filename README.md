@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Mohamed from Egypt.
 ## I'm a student @Benha faculty of computer science.
 
----
 <br />
 
 - 🔭 I’m currently working on improving my problem solving skills.
