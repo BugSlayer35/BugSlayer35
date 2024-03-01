@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Emary</h1>
-<h3 align="center">A passionate web developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm A passionate web developer</h1>
 
 - 🔭 I’m currently working on **finishing [The Odin Project](https://www.theodinproject.com/) web development curriculum**
 
