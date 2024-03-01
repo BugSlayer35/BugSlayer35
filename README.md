@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Node.js web projects**
 
-- 📫 How to reach me **mohamed.ahmed.emary@gmail.com**
+- 📫 How to reach me **bugslayer35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
