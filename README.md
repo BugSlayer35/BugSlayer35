@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm A passionate web developer</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Emary</h1>
+<h3 align="center">A passionate web developer from Egypt</h3>
 
 - 🔭 I’m currently working on **finishing [The Odin Project](https://www.theodinproject.com/) web development curriculum**
 
@@ -6,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Node.js web projects**
 
-- 📫 How to reach me **bugslayer35@gmail.com**
+- 📫 How to reach me **<mohamed.ahmed.emary@gmail.com>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
