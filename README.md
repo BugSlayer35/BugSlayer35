@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Emary</h1>
 <h3 align="center">A passionate web developer from Egypt</h3>
-
+<!---
 - 🔭 I’m currently working on **finishing [The Odin Project](https://www.theodinproject.com/) web development curriculum**
-
-- 🌱 I’m currently learning **React and Node.js frameworks.**
-
-- 👯 I’m looking to collaborate on **Node.js web projects**
+ 👯 I’m looking to collaborate on **.Net web projects**-->
+- 🌱 I’m currently learning **Angular and .Net frameworks.**
 
 - 📫 How to reach me **<mohamed.ahmed.emary@gmail.com>**
 
