@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **finishing [The Odin Project](https://www.theodinproject.com/) web development curriculum**
  👯 I’m looking to collaborate on **.Net web projects**-->
 
-- 🌱 I’m currently learning **Angular and .Net frameworks.**
+- 🌱 I’m currently learning **React.js framework.**
 
 - 📫 How to reach me **<mohamed.ahmed.emary@gmail.com>**
 
